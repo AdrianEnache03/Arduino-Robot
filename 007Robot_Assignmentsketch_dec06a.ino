@@ -73,6 +73,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+  // Menu system
   Serial.println("Please input the coressponding integer with the system you wish to calibrate: ");
   Serial.println("1)  Calibration");
   Serial.println("2)  Complete project (Obstacle detection works really well here)");
